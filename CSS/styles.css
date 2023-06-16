@@ -52,12 +52,15 @@ body {
 }
 
 .Projects{
-    margin: 0 0 48px 0
+    margin: 0 0 48px 0;
+    width: 525px;
 }
+
 .projects-list{
     margin: 0;
     padding: 0 0 0 16px;
 }
+
 .project-item{
     font-style: normal;
         font-weight: 700;
@@ -67,12 +70,14 @@ body {
         margin: 0 0 0 0;
         padding: 0 0 0 12px;
 }
+
 .project-item-text{
     font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 24px;
         color: #595959;
+        margin: 0;
 }
 .project-item-archor{
     font-style: normal;
@@ -81,6 +86,10 @@ body {
         line-height: 24px;
         text-decoration-line: underline;
        color: #005FFF;
+}
+.project-role{
+    margin: 0;
+    font-weight: 400;
 }
 
 .Work-experience-place{
@@ -198,4 +207,7 @@ padding: 0 0 0 0;
     font-size: 14px;
     line-height: 24px;
     color: #161D2A;
+}
+.Projects{
+     width: 525px;
 }
