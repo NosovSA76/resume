@@ -151,6 +151,8 @@ padding: 0 0 0 0;
 }
 
 .my-photo{
+    width: 350px;
+    /* height: 354px; */
     margin-top: 40px;}
 
 .contacts-tipe{
